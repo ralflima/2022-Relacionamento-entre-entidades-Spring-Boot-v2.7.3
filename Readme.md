@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/spring_boot_modulo3/blob/master/logo.png" width="30%">
+  <img src="https://github.com/ralflima/spring_boot_modulo3/blob/main/logo.png" width="30%">
   <h1 style="border-bottom:none">Relacionamento entre entidades com Spring Boot</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
